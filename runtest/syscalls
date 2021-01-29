@@ -1,4 +1,6 @@
 #DESCRIPTION:Kernel system calls
+seccomp01 seccomp01
+
 abort01 abort01
 
 accept01 accept01
